@@ -1,1 +1,1 @@
-# newtodo
+# TodoList на чистом JS
